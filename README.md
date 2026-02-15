@@ -20,4 +20,5 @@ I specialize in building efficient, scalable solutions—from architecting compl
 * 🎓 Degree in Systems for the Internet
 * 📊 Deeply interested in Applied Mathematics and Logic
 * 🎶 Enthusiast of Soul, Blues, and Jazz
+* ☕ Definitely a coffee person
 * 💡 I value simplicity, clean architecture, and data-driven decisions
