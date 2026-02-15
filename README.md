@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hey there 👋 I'm João
 
-<!--
-**JoaoVieiraSCM/JoaoVieiraSCM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Fullstack Developer and Systems for the Internet graduate based in Brazil. Currently, I am expanding my expertise into **Data Science and Analytics**, combining technical development with a strong foundation in logical and mathematical reasoning.
 
-Here are some ideas to get you started:
+I specialize in building efficient, scalable solutions—from architecting complex databases to developing intuitive mobile experiences. I am highly adaptable, a fast learner, and thrive in environments that challenge my problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tools & Tech
+
+* **Languages:** Python (Data Analysis & Automation), JavaScript (ES6+), PHP, SQL, Haskell, Java
+* **Frontend/Mobile:** React Native, React, Tailwind CSS
+* **Backend & Systems:** Node.js, PostgreSQL, MySQL, REST APIs
+* **Focus Areas:** Data Modeling, Exploratory Data Analysis (EDA), and Fullstack Architecture
+
+---
+
+### Beyond the Code
+
+* 🎓 Degree in Systems for the Internet
+* 📊 Deeply interested in Applied Mathematics and Logic
+* 🎶 Enthusiast of Soul, Blues, and Jazz
+* 💡 I value simplicity, clean architecture, and data-driven decisions
